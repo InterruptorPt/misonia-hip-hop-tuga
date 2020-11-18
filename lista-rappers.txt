@@ -1,2 +1,41 @@
-"Mike El Nite"
-"ProfJam"
+"9 Miller",
+"Allen Halloween",
+"Bispo",
+"Boss AC",
+"Cálculo",
+"Carlão",
+"Chico da Tina",
+"Da Weasel",
+"Dealema",
+"Dillaz",
+"General D",
+"GROGNation",
+"Holly Hood",
+"Kappa Jotta",
+"Keso",
+"Mike El Nite",
+"Mind da Gap",
+"Myke Lyte",
+"NBC (Natural Black Colour)",
+"NGA",
+"Phoenix RDC",
+"Plutónio",
+"Piruka",
+"ProfJam",
+"Regula",
+"Sam The Kid",
+"SippinPurp",
+"Slow J",
+"Tribruto",
+"Valas",
+"Valete",
+"Waze",
+"Wet Bed Gang",
+"X-Tense",
+"Xeg",
+
+
+
+- Pelo menos um álbum a solo
+- São artista principal em, pelo menos, mais de 10 músicas
+- Mais de xxx ouvintes mensais no Spotify
